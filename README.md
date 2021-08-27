@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @AlbienOS
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlbienOS/AlbienOS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Albien Oktavius Sutedja
+==
+Hello Guys!
+--
+My name is Albien Oktavius S, I'm an student of 'Bunda Mulia University'. My major is Computer Science, My Hobby is Sport and Programming. My favourite language for programming are Java, C++, and Python (maybe dart soon).
+I'm learning HTML, CSS, JS, adn PHP too for being a Web Developer. 
